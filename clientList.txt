@@ -1,0 +1,33 @@
+Official:nimal,nimal@gmail.com,ceo
+Office_friend:kamal,kamal@gmail.com,clerk,2000/12/12
+Personal:sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Office_friend:Shehan,malithshehan2000@gmail.com,HO,2022/03/08
+Personal:shehan,fk,malithshehan2000@gmail.com,2000/08/03
+Office_friend:malith,malithshehan2000@gmail.com,ho,2001/08/03
+Personal:shd,mk,malithshehan2000@gmail.com,2000/08/04
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,kamal@gmail.com,clerk,2000/08/13
+Office_friend: kamal,kamal@gmail.com,clerk,2000/08/13
+Personal: sunil,<nick-name>,malithshehan2000@gmail.com,2000/08/13
+Personal: sunil,<nick-name>,malithshehan2000@gmail.com,2000/08/13
+Official: nimal,nimal@gmail.com,ceo
+Personal: sunil,<nick-name>,malithshehan2000@gmail.com,2000/08/13
+Personal: sunil,<nick-name>,malithshehan2000@gmail.com,2000/08/13
+Office_friend: kamal,kamal@gmail.com,clerk,2000/08/13
+Official: nimal,nimal@gmail.com,ceo
+Official: nimal,nimal@gmail.com,ceo
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/08/13
+Personal: sunil,<nick-name>,malithshehan2000@gmail.com,2000/08/13
+Official: name,email,designation
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Official: name,email,designation
+Office_friend: name,email,designation,2000/02/16Personal: ransara,rasa,rasaahpc@gmail.com,2022/08/17
+Personal: Shakila,sakaboob,shakilanethmika@gmail.com,2000/08/19
+Personal:shd,mk,malithshehan2000@gmail.com,2000/08/04
+Personal:shd,mk,malithshehan2000@gmail.com,2000/09/22
+Personal:shd,mk,malithshehan2000@gmail.com,2000/09/22
