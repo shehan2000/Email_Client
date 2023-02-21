@@ -29,8 +29,8 @@ private String email;
 
     public void sendEmail() throws IOException{
 
-        final String username = "malithshehan2000@gmail.com";
-        final String password = "qgknizxgbayczwqd";
+        final String username = "dummy@gmail.com";//add a valid username
+        final String password = "dummypw";//add a valid password
 
         Properties prop = new Properties();
         prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -48,7 +48,7 @@ private String email;
         try {
 
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress("malithshehan2000@gmail.com"));
+            message.setFrom(new InternetAddress("dummy@gmail.com"));// add a valid email address to send mail
             message.setRecipients(
                     Message.RecipientType.TO,
                     InternetAddress.parse(email)
